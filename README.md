@@ -5,6 +5,7 @@
 <ul style="list-style:none">
 	<li>🔭 I’m currently working on <b>Vue JS</b></li>
 	<li>🌱 I'm currently learning everything about <b>Frontend Development</b></li>
+	<li>👩🏻‍💻 <a href="https://cerendemirci.wixsite.com/portfolio">My Portfolio</a></li>
 </ul>
 <h3>💬 Contact me:</h3>
 <ul>
