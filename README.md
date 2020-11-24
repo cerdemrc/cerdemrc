@@ -8,6 +8,7 @@
 </ul>
 <h3>💬 Contact me:</h3>
 <ul>
+	<li>🌙 <a href="https://cerdemrc.github.io/">Portfolio</a></li>
 	<li>📌 <a href="https://www.linkedin.com/in/cerendemirci/">Linkedin</a></li>
 	<li>⚡ <a href="https://www.sololearn.com/Profile/18712888">SoloLearn</a></li>
 	<li>🌈 <a href="https://www.hackerrank.com/cerdemrc">HackerRank</a></li>
