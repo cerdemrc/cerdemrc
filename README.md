@@ -4,7 +4,7 @@
 
 <ul style="list-style:none">
 	<li>🔭 I’m currently working on <b>Vue JS</b></li>
-	<li>🌱 I'm currently learning all about <b>Frontend Development</b> and <b>Nuxt.js</b></li>
+	<li>🌱 I'm currently learning <b>Nuxt.js</b> and all about <b>Frontend Development</b> </li>
 </ul>
 <h3>💬 Contact me:</h3>
 <ul>
