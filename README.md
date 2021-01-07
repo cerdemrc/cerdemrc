@@ -11,9 +11,10 @@
 	<li>📫 <a href="#">cerdemrc@gmail.com</a></li>
 	<li>🌙 <a href="https://cerdemrc.github.io/" target="_blank">Portfolio</a></li>
 	<li>📌 <a href="https://www.linkedin.com/in/cerendemirci/" target="_blank">Linkedin</a></li>
+	<li>🌈 <a href="https://www.behance.net/cerendemirci" target="_blank">Behance</a></li>
 	<li>🖍️ <a href="https://medium.com/@cerdemrc" target="_blank">Medium</a></li>
 	<li>⚡ <a href="https://www.sololearn.com/Profile/18712888" target="_blank">SoloLearn</a></li>
-	<li>🌈 <a href="https://www.hackerrank.com/cerdemrc" target="_blank">HackerRank</a></li>
+	<li>🔮 <a href="https://www.hackerrank.com/cerdemrc" target="_blank">HackerRank</a></li>
 </ul>
 <h3>🚀 Skills</h3>
 	<table>
