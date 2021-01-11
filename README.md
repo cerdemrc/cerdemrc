@@ -39,5 +39,5 @@
 
 <a href="https://github.com/cerdemrc">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cerdemrc&layout=compact&theme=radical" />
-</a><br>
+</a><br><br>
 <img src="https://komarev.com/ghpvc/?username=cerdemrc&color=ff69b4">
