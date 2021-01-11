@@ -40,4 +40,4 @@
 <a href="https://github.com/cerdemrc">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cerdemrc&layout=compact&theme=radical" />
 </a><hr>
-<imgsrc="https://komarev.com/ghpvc/?username=cerdemrc&color=ff69b4">
+<img src="https://komarev.com/ghpvc/?username=cerdemrc&color=ff69b4">
