@@ -16,19 +16,27 @@
 	<li>⚡ <a href="https://www.sololearn.com/Profile/18712888" target="_blank">SoloLearn</a></li>
 	<li>🔮 <a href="https://www.hackerrank.com/cerdemrc" target="_blank">HackerRank</a></li>
 </ul>
+
+
+
 <h3>🚀 Skills</h3>
-	<table>
-		<tr>
-			<td align="center"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /></td>
-			<td align="center"><img src="https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white" /></td>
-			<td align="center"><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /></td>
-			<td align="center"><img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /></td>
-			<td align="center"><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /></td>
-		</tr>
-		<tr>
-			<td align="center"><img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" /></td>
-			<td align="center"><img src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" /></td>
-			<td align="center"><img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" /></td>
-			<td align="center"><img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" /></td>
-			<td align="center"><img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" /></td>
-		</tr>
+
+<table>
+	<tr>
+		<td align="center"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /></td>
+		<td align="center"><img src="https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white" /></td>
+		<td align="center"><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /></td>
+		<td align="center"><img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /></td>
+		<td align="center"><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /></td>
+	</tr>
+	<tr>
+		<td align="center"><img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" /></td>
+		<td align="center"><img src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" /></td>
+		<td align="center"><img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" /></td>
+		<td align="center"><img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" /></td>
+		<td align="center"><img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" /></td>
+	</tr>
+</table>
+
+<h1 align = "left"><img src = "https://github-readme-stats.vercel.app/api/top-langs?username=cerdemrc&show_icons=true&locale=en&layout=compact"></h1>
+<img src="https://komarev.com/ghpvc/?username=cerdemrc&color=ff69b4">
