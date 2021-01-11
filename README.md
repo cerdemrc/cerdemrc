@@ -1,4 +1,4 @@
-### Hi there, I'm Ceren <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+<h1 align="center">Hi there, I'm Ceren <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="35"></h1>
 
 <h1 align="center"><img src="https://i.pinimg.com/564x/40/00/8d/40008da157d71c4cc7c5b490e82e20f1.jpg" width="500" height="250"></h1>
 <ul style="list-style:none">
