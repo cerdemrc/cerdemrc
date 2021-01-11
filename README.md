@@ -1,4 +1,4 @@
-<h2 align="center"><b>Hi there, I'm Ceren</b></h2>
+### Hi there, I'm Ceren <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
 <h1 align="center"><img src="https://i.pinimg.com/564x/40/00/8d/40008da157d71c4cc7c5b490e82e20f1.jpg" width="500" height="250"></h1>
 <ul style="list-style:none">
@@ -6,7 +6,7 @@
 	<li>🌱 I'm currently learning <b>Nuxt.js</b> and all about <b>Frontend Development</b> </li>
 </ul>
 
-<h3>💬 Contact me:</h3>
+### 💬 Contact me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 <ul>
 	<li>📫 <a href="#">cerdemrc@gmail.com</a></li>
 	<li>🌙 <a href="https://cerdemrc.github.io/" target="_blank">Portfolio</a></li>
@@ -17,23 +17,38 @@
 	<li>🔮 <a href="https://www.hackerrank.com/cerdemrc" target="_blank">HackerRank</a></li>
 </ul>
 
-<h3>🚀 Skills</h3>
-<table>
-	<tr>
-		<td align="center"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /></td>
-		<td align="center"><img src="https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white" /></td>
-		<td align="center"><img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /></td>
-		<td align="center"><img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /></td>
-		<td align="center"><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /></td>
-	</tr>
-	<tr>
-		<td align="center"><img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" /></td>
-		<td align="center"><img src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" /></td>
-		<td align="center"><img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" /></td>
-		<td align="center"><img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" /></td>
-		<td align="center"><img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" /></td>
-	</tr>
-</table>
+### 🚀 Skills
+
+[<code>
+<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
+</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<code>
+<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
+</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<code>
+<img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
+</code>](https://sass-lang.com/)
+[<code>
+<img alt="vue" width="26px" src="https://img.icons8.com/color/48/000000/vue-js.png">
+</code>](https://vuejs.org/)
+[<code>
+<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+</code>](https://code.visualstudio.com/)
+[<code>
+<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<code>
+<img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
+</code>](https://www.typescriptlang.org/)
+[<code>
+<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+</code>](https://dev.mysql.com/)
+[<code>
+<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
+</code>](https://git-scm.com/)
+[<code>
+<img alt="github" width="26px" src="https://img.icons8.com/color/48/ffffff/github-2.png">
+</code>](https://github.com/)
 
 
 
@@ -41,3 +56,4 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cerdemrc&layout=compact&theme=radical" />
 </a><br><br>
 <img src="https://komarev.com/ghpvc/?username=cerdemrc&color=ff69b4">
+
