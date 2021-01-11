@@ -1,11 +1,11 @@
 <h2 align="center"><b>Hi there, I'm Ceren</b></h2>
 
 <h1 align="center"><img src="https://i.pinimg.com/564x/40/00/8d/40008da157d71c4cc7c5b490e82e20f1.jpg" width="500" height="250"></h1>
-
 <ul style="list-style:none">
 	<li>🔭 I’m currently working on <b>Vue JS</b></li>
 	<li>🌱 I'm currently learning <b>Nuxt.js</b> and all about <b>Frontend Development</b> </li>
 </ul>
+
 <h3>💬 Contact me:</h3>
 <ul>
 	<li>📫 <a href="#">cerdemrc@gmail.com</a></li>
@@ -17,10 +17,7 @@
 	<li>🔮 <a href="https://www.hackerrank.com/cerdemrc" target="_blank">HackerRank</a></li>
 </ul>
 
-
-
 <h3>🚀 Skills</h3>
-
 <table>
 	<tr>
 		<td align="center"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /></td>
@@ -38,5 +35,9 @@
 	</tr>
 </table>
 
-<h1 align = "left"><img src = "https://github-readme-stats.vercel.app/api/top-langs?username=cerdemrc&show_icons=true&locale=en&layout=compact"></h1>
+
+
+<a href="https://github.com/cerdemrc">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cerdemrc&layout=compact&theme=radical" />
+</a><br>
 <img src="https://komarev.com/ghpvc/?username=cerdemrc&color=ff69b4">
