@@ -44,8 +44,8 @@
 <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
 </code>](https://git-scm.com/)
 [<code>
-<img alt="github" width="26px" src="https://img.icons8.com/color/48/ffffff/github-2.png">
-</code>](https://github.com/)
+<img alt="react" width="26px" src="https://img.icons8.com/color/48/000000/react-native.png">
+</code>](https://tr.reactjs.org/)
 
 <a href="https://github.com/cerdemrc">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cerdemrc&layout=compact&theme=radical" />
