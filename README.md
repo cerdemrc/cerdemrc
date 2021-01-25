@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ceren <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="35"></h1>
+<h1>Hello, I'm Ceren <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="35"></h1>
 
 <ul style="list-style:none">
 	<li>🔭 I’m currently working on <b>Vue JS</b></li>
@@ -11,9 +11,7 @@
 	<li>🌙 <a href="https://cerdemrc.github.io/" target="_blank">Portfolio</a></li>
 	<li>📌 <a href="https://www.linkedin.com/in/cerendemirci/" target="_blank">Linkedin</a></li>
 	<li>🌈 <a href="https://www.behance.net/cerendemirci" target="_blank">Behance</a></li>
-	<li>🖍️ <a href="https://medium.com/@cerdemrc" target="_blank">Medium</a></li>
-	<li>⚡ <a href="https://www.sololearn.com/Profile/18712888" target="_blank">SoloLearn</a></li>
-	<li>🔮 <a href="https://www.hackerrank.com/cerdemrc" target="_blank">HackerRank</a></li>
+	<li>⚡ <a href="https://medium.com/@cerdemrc" target="_blank">Medium</a></li>
 </ul>
 
 ### 🚀 Skills
@@ -48,8 +46,6 @@
 [<code>
 <img alt="github" width="26px" src="https://img.icons8.com/color/48/ffffff/github-2.png">
 </code>](https://github.com/)
-
-
 
 <a href="https://github.com/cerdemrc">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cerdemrc&layout=compact&theme=radical" />
