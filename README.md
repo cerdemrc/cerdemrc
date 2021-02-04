@@ -8,7 +8,7 @@
 ### 💬 Contact me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 <ul>
 	<li>📫 <a href="#">cerdemrc@gmail.com</a></li>
-	<li>🌙 <a href="https://cerdemrc.github.io/" target="_blank">Portfolio</a></li>
+	<li>🌙 <a href="https://cerdemrc.netlify.app/" target="_blank">Portfolio</a></li>
 	<li>📌 <a href="https://www.linkedin.com/in/cerendemirci/" target="_blank">Linkedin</a></li>
 	<li>🌈 <a href="https://www.behance.net/cerendemirci" target="_blank">Behance</a></li>
 	<li>⚡ <a href="https://medium.com/@cerdemrc" target="_blank">Medium</a></li>
