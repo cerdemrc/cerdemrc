@@ -17,7 +17,6 @@
 <a href="https://medium.com/@cerdemrc" title="Medium"><img src="https://img.icons8.com/bubbles/50/000000/medium-new.png"/></a>
 <a href="https://open.spotify.com/user/wp6y227u2foukljjsjbg0n4x7?si=_YJz_pR9QW-DM85e2Iebrw&nd=1" title="Spotify"><img src="https://img.icons8.com/bubbles/48/000000/spotify.png"/></a>
 <a href="https://www.instagram.com/cerdemrc/" title="Instagram"><img src="https://img.icons8.com/clouds/48/000000/instagram-new--v2.png"/></a>
-<a href="https://tr.pinterest.com/cerdemrc/_saved/" title="Pinterest"><img src="https://img.icons8.com/clouds/48/000000/pinterest.png"/></a>
 <a href="https://www.hackerrank.com/cerdemrc" title="Hacker Rank"><img src="https://img.icons8.com/officel/40/000000/cloud-vulnerability.png"/></a>
 <a href="https://stackoverflow.com/users/12705137/cerdemrc" title="Stack Overflow"><img src="https://img.icons8.com/clouds/50/000000/stack.png"/></a>
 
