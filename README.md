@@ -8,11 +8,20 @@
 ### 💬 Contact me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 <ul>
 	<li>📫 <a href="#">cerdemrc@gmail.com</a></li>
-	<li>🌙 <a href="https://cerdemrc.netlify.app/" target="_blank">Portfolio</a></li>
-	<li>📌 <a href="https://www.linkedin.com/in/cerendemirci/" target="_blank">Linkedin</a></li>
-	<li>🌈 <a href="https://www.behance.net/cerendemirci" target="_blank">Behance</a></li>
-	<li>⚡ <a href="https://medium.com/@cerdemrc" target="_blank">Medium</a></li>
+	<li>📌 <a href="https://cerdemrc.netlify.app/" target="_blank">Portfolio</a></li>
 </ul>
+
+### 💬 Me on Social:
+<a href="https://www.linkedin.com/in/cerendemirci/" title="Linkedin"><img src="https://img.icons8.com/clouds/50/000000/linkedin.png"/></a>
+<a href="https://www.behance.net/cerendemirci" title="Behance"><img src="https://img.icons8.com/clouds/50/000000/behance.png"/></a>
+<a href="https://medium.com/@cerdemrc" title="Medium"><img src="https://img.icons8.com/bubbles/50/000000/medium-new.png"/></a>
+<a href="https://open.spotify.com/user/wp6y227u2foukljjsjbg0n4x7?si=_YJz_pR9QW-DM85e2Iebrw&nd=1" title="Spotify"><img src="https://img.icons8.com/bubbles/48/000000/spotify.png"/></a>
+<a href="https://www.instagram.com/cerdemrc/" title="Instagram"><img src="https://img.icons8.com/clouds/48/000000/instagram-new--v2.png"/></a>
+<a href="https://tr.pinterest.com/cerdemrc/_saved/" title="Pinterest"><img src="https://img.icons8.com/clouds/48/000000/pinterest.png"/></a>
+<a href="https://www.hackerrank.com/cerdemrc" title="Hacker Rank"><img src="https://img.icons8.com/officel/40/000000/cloud-vulnerability.png"/></a>
+<a href="https://stackoverflow.com/users/12705137/cerdemrc" title="Stack Overflow"><img src="https://img.icons8.com/clouds/50/000000/stack.png"/></a>
+
+
 
 ### 🚀 Skills
 
