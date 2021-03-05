@@ -11,7 +11,6 @@
 	<li>📌 <a href="https://cerdemrc.netlify.app/" target="_blank">Portfolio</a></li>
 </ul>
 
-### 🌈 Me on Social:
 <a href="https://www.linkedin.com/in/cerendemirci/" title="Linkedin"><img src="https://img.icons8.com/clouds/50/000000/linkedin.png"/></a>
 <a href="https://www.behance.net/cerendemirci" title="Behance"><img src="https://img.icons8.com/clouds/50/000000/behance.png"/></a>
 <a href="https://medium.com/@cerdemrc" title="Medium"><img src="https://img.icons8.com/bubbles/50/000000/medium-new.png"/></a>
