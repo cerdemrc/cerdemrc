@@ -1,6 +1,6 @@
 <img width="300px" src="https://media.giphy.com/media/JqDeI2yjpSRgdh35oe/giphy.gif">
 
-### 💬 Contact me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+### Contact me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 <ul>
 	<li>📫 <a href="#">cerdemrc@gmail.com</a></li>
 	<li>📌 <a href="https://cerdemrc.netlify.app/" target="_blank">Portfolio</a></li>
@@ -10,7 +10,7 @@
 <a href="https://www.behance.net/cerendemirci" title="Behance"><img src="https://img.icons8.com/clouds/50/000000/behance.png"/></a>
 <a href="https://medium.com/@cerdemrc" title="Medium"><img src="https://img.icons8.com/bubbles/50/000000/medium-new.png"/></a>
 
-### 🚀 Skills 
+### Skills <img width="40px" src="https://media.giphy.com/media/pyvRXTjzVtRcW1pp2Q/giphy.gif">
 
 <a><img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png"></a>
 <a><img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png"></a>
