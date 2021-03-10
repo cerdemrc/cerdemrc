@@ -1,4 +1,4 @@
-<h1>Hello, I'm Ceren <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="35"></h1>
+<img width="300px" src="https://media.giphy.com/media/JqDeI2yjpSRgdh35oe/giphy.gif">
 
 <ul style="list-style:none">
 	<li>🔭 I’m currently working on <b>Vue JS</b></li>
@@ -14,10 +14,8 @@
 <a href="https://www.linkedin.com/in/cerendemirci/" title="Linkedin"><img src="https://img.icons8.com/clouds/50/000000/linkedin.png"/></a>
 <a href="https://www.behance.net/cerendemirci" title="Behance"><img src="https://img.icons8.com/clouds/50/000000/behance.png"/></a>
 <a href="https://medium.com/@cerdemrc" title="Medium"><img src="https://img.icons8.com/bubbles/50/000000/medium-new.png"/></a>
-<a href="https://www.hackerrank.com/cerdemrc" title="Hacker Rank"><img src="https://img.icons8.com/officel/40/000000/cloud-vulnerability.png"/></a>
-<a href="https://stackoverflow.com/users/12705137/cerdemrc" title="Stack Overflow"><img src="https://img.icons8.com/clouds/50/000000/stack.png"/></a>
 
-### 🚀 Skills
+### 🚀 Skills 
 
 <a><img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png"></a>
 <a><img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png"></a>
