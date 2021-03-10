@@ -1,10 +1,5 @@
 <img width="300px" src="https://media.giphy.com/media/JqDeI2yjpSRgdh35oe/giphy.gif">
 
-<ul style="list-style:none">
-	<li>🔭 I’m currently working on <b>Vue JS</b></li>
-	<li>🌱 I'm currently learning <b>Nuxt.js</b> and all about <b>Frontend Development</b> </li>
-</ul>
-
 ### 💬 Contact me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 <ul>
 	<li>📫 <a href="#">cerdemrc@gmail.com</a></li>
