@@ -10,7 +10,7 @@
 <a href="https://www.behance.net/cerendemirci" title="Behance"><img src="https://img.icons8.com/clouds/50/000000/behance.png"/></a>
 <a href="https://medium.com/@cerdemrc" title="Medium"><img src="https://img.icons8.com/bubbles/50/000000/medium-new.png"/></a>
 
-### Skills <img width="40px" src="https://media.giphy.com/media/pyvRXTjzVtRcW1pp2Q/giphy.gif">
+### Skills <img width="35px" src="https://media.giphy.com/media/pyvRXTjzVtRcW1pp2Q/giphy.gif">
 
 <a><img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png"></a>
 <a><img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png"></a>
@@ -27,11 +27,9 @@
 <a><img alt="xd" width="26px" src="https://img.icons8.com/color/48/000000/adobe-xd.png"></a>
 <a><img alt="photoshop" width="26px" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"></a>
 
-
-
-
 <a href="https://github.com/cerdemrc">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cerdemrc&layout=compact&theme=radical" />
 </a><br><br>
 <img src="https://komarev.com/ghpvc/?username=cerdemrc&color=ff69b4">
+
 
