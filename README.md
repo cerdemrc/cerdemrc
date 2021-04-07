@@ -6,7 +6,7 @@ I finished Computer Engineering in 2020 September. I enjoyed working on the fron
 
 **Contact me** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 <br/>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/JqDeI2yjpSRgdh35oe/giphy.gif" width="480" height="417" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/JqDeI2yjpSRgdh35oe/giphy.gif" width="480" height="420" />
 
 - 📫 <a href="#">cerdemrc@gmail.com</a>
 - 📌 <a href="https://cerdemrc.netlify.app/" target="_blank">Portfolio</a>
