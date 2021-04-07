@@ -5,7 +5,8 @@ Hi, I'm [Ceren](https://github.com/cerdemrc).
 I finished Computer Engineering in 2020 September. I enjoyed working on the front-end part, so I decided to focus on it. Since 2020 May, I'm working with Vue js and responsive web design, using Scss and trying to learn new technologies.
 
 **Contact me** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/JqDeI2yjpSRgdh35oe/giphy.gif" width="500" height="350" />
+<br/>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/JqDeI2yjpSRgdh35oe/giphy.gif" width="530" height="400" />
 
 - 📫 <a href="#">cerdemrc@gmail.com</a>
 - 📌 <a href="https://cerdemrc.netlify.app/" target="_blank">Portfolio</a>
@@ -26,8 +27,5 @@ I finished Computer Engineering in 2020 September. I enjoyed working on the fron
 <a><img alt="component" width="26px" src="https://img.icons8.com/color/48/000000/web-components.png"></a>
 <a><img alt="xd" width="26px" src="https://img.icons8.com/color/48/000000/adobe-xd.png"></a>
 <a><img alt="photoshop" width="26px" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"></a>
-
-<br/>
-
 
 <p> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cerdemrc&layout=compact&theme=radical" alt="cerdemrc" />
