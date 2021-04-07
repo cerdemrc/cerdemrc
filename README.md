@@ -28,4 +28,5 @@ I finished Computer Engineering in 2020 September. I enjoyed working on the fron
 <a><img alt="xd" width="26px" src="https://img.icons8.com/color/48/000000/adobe-xd.png"></a>
 <a><img alt="photoshop" width="26px" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"></a>
 
+<br/>
 <p> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cerdemrc&layout=compact&theme=radical" alt="cerdemrc" />
