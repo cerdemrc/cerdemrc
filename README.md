@@ -5,6 +5,7 @@ Hi, I'm [Ceren](https://github.com/cerdemrc).
 I finished Computer Engineering in 2020 September. I enjoyed working on the front-end part, so I decided to focus on it. Since 2020 May, I'm working with Vue js and responsive web design, using Scss and trying to learn new technologies.
 
 **Contact me** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+<br/>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/JqDeI2yjpSRgdh35oe/giphy.gif" width="480" height="400" />
 
 - 📫 <a href="#">cerdemrc@gmail.com</a>
