@@ -1,7 +1,7 @@
 ### Hellow <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img src="https://komarev.com/ghpvc/?username=cerdemrc&color=ff69b4">
 
-Hi, I'm [Ceren](https://github.com/cerdemrc).
+I'm [Ceren](https://github.com/cerdemrc).
 I finished Computer Engineering in 2020 September. I enjoyed working on the front-end part, so I decided to focus on it. Since 2020 May, I'm working with Vue js and responsive web design, using Scss and trying to learn new technologies.
 
 **Contact me** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
