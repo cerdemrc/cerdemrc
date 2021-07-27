@@ -9,7 +9,7 @@ I finished Computer Engineering in 2020 September. I enjoyed working on the fron
   <img align="right" alt="GIF" src="https://media.giphy.com/media/JqDeI2yjpSRgdh35oe/giphy.gif" width="480" height="420" />
 
 - 📫 <a href="#">cerdemrc@gmail.com</a>
-- 📌 <a href="https://cerdemrc.netlify.app/" target="_blank">Portfolio</a>
+- 📌 <a href="cerendemirci.netlify.app/" target="_blank">Portfolio</a>
 - 🌈 <a href="https://www.linkedin.com/in/cerendemirci/" target="_blank">Linkedin</a>
 - 🌵 <a href="https://medium.com/@cerdemrc" target="_blank">Medium</a>
 
