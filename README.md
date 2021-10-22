@@ -12,7 +12,6 @@ I finished Computer Engineering in 2020 September. I enjoyed working on the fron
 - 📌 <a href="https://cerendemirci.netlify.app/" target="_blank">Portfolio</a>
 - 🌈 <a href="https://www.linkedin.com/in/cerendemirci/" target="_blank">Linkedin</a>
 - 🌵 <a href="https://medium.com/@cerdemrc" target="_blank">Medium</a>
-- 🌼 <a href="https://www.frontendmentor.io/profile/cerdemrc" target="_blank">Frontend Mentor</a>
 
 **Skills**  <img width="35px" src="https://media.giphy.com/media/pyvRXTjzVtRcW1pp2Q/giphy.gif">
 
