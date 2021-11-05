@@ -6,7 +6,7 @@ I finished Computer Engineering in 2020 September. I enjoyed working on the fron
 
 **Contact me** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 <br/>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/JqDeI2yjpSRgdh35oe/giphy.gif" width="480" height="420" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/JqDeI2yjpSRgdh35oe/giphy.gif" width="450" height="400" />
 
 - 📫 <a href="#">cerdemrc@gmail.com</a>
 - 📌 <a href="https://cerendemirci.netlify.app/" target="_blank">Portfolio</a>
@@ -31,6 +31,5 @@ I finished Computer Engineering in 2020 September. I enjoyed working on the fron
 <a><img alt="gitlab" width="26px" src="https://img.icons8.com/color/48/000000/gitlab.png"/></a>
 <a><img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png"></a>
 <a><img alt="xd" width="26px" src="https://img.icons8.com/color/48/000000/adobe-xd.png"></a>
-<a><img alt="photoshop" width="26px" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"></a>
 
 <p> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cerdemrc&layout=compact&theme=radical" alt="cerdemrc" />
