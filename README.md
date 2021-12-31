@@ -1,8 +1,9 @@
 ### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img src="https://komarev.com/ghpvc/?username=cerdemrc&color=ff69b4">
 
-I'm [Ceren](https://github.com/cerdemrc).
-I finished Computer Engineering in 2020 September. I enjoyed working on the front-end part, so I decided to focus on it. Since 2020 May, I'm working with Vue js and responsive web design, using Scss. And I'm currently working on Mevn Stack.
+im [ceren](https://github.com/cerdemrc).
+i love javascript and everything about it. but vue js is my first love 💚 i plan to stay on this side until i can fully enjoy the frontend. 
+see you on the other side when it's all over! 🖖
 
 **Contact me** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 <br/>
@@ -33,3 +34,5 @@ I finished Computer Engineering in 2020 September. I enjoyed working on the fron
 <a><img alt="xd" width="26px" src="https://img.icons8.com/color/48/000000/adobe-xd.png"></a>
 
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerdemrc&layout=compact&show_icons=true&theme=radical" alt="cerdemrc" />
+  
+
