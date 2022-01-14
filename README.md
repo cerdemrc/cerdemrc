@@ -1,6 +1,6 @@
 ## Hey there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm `Ceren`!
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/JqDeI2yjpSRgdh35oe/giphy.gif" width="450" height="400" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/JqDeI2yjpSRgdh35oe/giphy.gif" width="450" height="420" />
 
 <img src="https://komarev.com/ghpvc/?username=cerdemrc&color=ff69b4">
 
