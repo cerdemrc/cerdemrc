@@ -18,7 +18,7 @@ see you on the other side when it's all over! 🖖
 </td>
   
 <td width="50%">
-<img alt="GIF" src="https://media.giphy.com/media/JqDeI2yjpSRgdh35oe/giphy.gif" width="450" height="420" />
+<img alt="GIF" src="https://media.giphy.com/media/JqDeI2yjpSRgdh35oe/giphy.gif" width="450" height="400" />
 </td>
 </tr>
 </table>
