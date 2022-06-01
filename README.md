@@ -3,7 +3,7 @@
 <tr>
 <td width="50%">
   
-## Helloww, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm `Ceren`!
+## Helloww, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I'm `Ceren`!
   
 <img src="https://komarev.com/ghpvc/?username=cerdemrc&color=ff69b4">
 
