@@ -7,11 +7,13 @@
   
 <img src="https://komarev.com/ghpvc/?username=cerdemrc&color=ff69b4">
 
-👩🏻‍💻 frontend developer thats what she said
+⚠️ caution! this girl is a self motivated frontend developer who is extremely passionate about development.
+
+👩🏻‍💻 frontend developer
 
 🌾 music, gaming, tech enthusiast and the office fan
 
-🦄 i love javascript and everything about it. but vue js is my first love. i plan to stay on this side until i can fully enjoy the frontend. 
+🦄 i love javascript and everything about it. i plan to stay on this side until i can fully enjoy the frontend. 
 see you on the other side when it's all over! 🖖
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerdemrc&layout=compact&show_icons=true&theme=radical" alt="cerdemrc" />
@@ -27,7 +29,6 @@ see you on the other side when it's all over! 🖖
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
