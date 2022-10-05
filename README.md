@@ -7,14 +7,13 @@
   
 <img src="https://komarev.com/ghpvc/?username=cerdemrc&color=ff69b4">
 
-⚠️ caution! this girl is a self motivated frontend developer who is extremely passionate about development.
+🌻 a self-motivated frontend developer who is extremely passionate about development
 
-👩🏻‍💻 frontend developer
+👩🏻‍💻 currently working on react and next
 
-🌾 music, gaming, tech enthusiast and the office fan
+☕️ currently learning react native
 
-🦄 i love javascript and everything about it. i plan to stay on this side until i can fully enjoy the frontend. 
-see you on the other side when it's all over! 🖖
+⚡️ fun fact: the office fan
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerdemrc&layout=compact&show_icons=true&theme=radical" alt="cerdemrc" />
 </td>
