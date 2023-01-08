@@ -11,8 +11,6 @@
 
 👩🏻‍💻 currently working on react and next
 
-☕️ currently learning react native
-
 ⚡️ fun fact: the office fan
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerdemrc&layout=compact&show_icons=true&theme=radical" alt="cerdemrc" />
